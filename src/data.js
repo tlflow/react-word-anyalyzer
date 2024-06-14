@@ -1,4 +1,10 @@
-export const pronouns = [
+export const SETTINGS = {
+  AVG_READING_TIME: 185,
+  X_LIMIT: 280,
+  X_PREMIUM_LIMIT: 25000,
+}
+
+export const PRONOUNS = [
   'i',
   'we',
   'you',
